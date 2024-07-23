@@ -1,0 +1,1 @@
+# criar-um-algoritmo-que-calcule-e-imprima-a-area-de-um-losango
